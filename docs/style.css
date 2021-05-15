@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    
+    
+}
+
+header{
+    
+    height: 15vh ;
+    background-color: red;
+}
+
+nav{
+    height: 15vh;
+    background-color: orange;
+}
+
+section{
+    width: 50%;
+    height: 50vh;
+    background-color: yellow;
+}
+
+article{
+    background-color: rgb(30, 192, 30);
+    
+}
+
+aside{
+    position: absolute;
+    top: 30.5%;
+    height: 49vh;
+    width: 87vh;
+    margin-left:  52%;
+    border-radius: 1.2%;
+    background-color: blue;
+}
+
+footer{
+    position: relative;
+    height: 20vh;
+    background-color: purple;
+}
+
+h1.hea{
+    position: relative;
+    font-size: 35px;
+    margin-top: 2%;
+    margin-left: 45%;
+    color: white;
+}
+
+h1.na{
+    position: relative;
+    font-size: 35px;
+    margin-top: 2%;
+    margin-left: 47%;
+    color: white;
+}
+
+h1.sec{
+    position: relative;
+    font-size: 35px;
+    margin-top: 2%;
+    margin-left: 47%;
+    color: black;
+}
+
+article#article-top{
+    
+    height: 30%;
+    border-radius: 3px;
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+
+p.p-top{
+    position: relative;
+    font-size: 40px;
+    margin-top: 5%;
+    margin-left: 45%;
+    color: white;
+}
+
+article#article-down{
+    height: 30%;
+    margin-top: 5px;
+    border-radius: 3px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+p.p-footer{
+    position: relative;
+    font-size: 40px;
+    margin-top: 3.5%;
+    margin-left: 40%;
+    color: white;
+}
+
+p{
+    position: relative;
+    margin-top: 20%;
+    margin-left: 40%;
+    font-size: 50px;
+    color: white;
+}
